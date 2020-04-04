@@ -1,0 +1,30 @@
+/*This is Styling for header*/
+.header{
+    background: #242424;
+     border-bottom: 1px solid black;
+ }
+ .headeropt{
+     display: flex;
+ }
+ .bars{
+     
+         color:#dfdfdf;
+         padding:10 px;
+         cursor:pointer;
+    
+ }
+ .options{
+     font-weight: 300;
+     font-size: 14 px;
+     color:#bababa;
+     padding: 12px;
+     border-bottom: 1px solid whitesmoke;
+ }
+ .options a{
+ color:inherit;
+ text-decoration: none;
+ }
+ .icons{
+     margin-right: 10px;
+      color:whitesmoke
+ }
